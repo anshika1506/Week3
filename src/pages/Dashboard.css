@@ -1,0 +1,17 @@
+.dashboard {
+  padding: 2rem;
+  background: linear-gradient(to right top, #a18cd1, #fbc2eb); /* purple-pink gradient */
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  color: white;
+  transition: background 0.3s ease;
+}
+
+.dashboard h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.dashboard p {
+  font-size: 1.1rem;
+}
